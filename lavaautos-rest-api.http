@@ -1,0 +1,100 @@
+POST http://{{direction}}:8000/oauth/token
+Content-Type: application/json
+
+{
+  "grant_type": "client_credentials",
+  "client_id": 3,
+  "client_secret": "YToOimo0K0n9HUhinIsKVyMbAYtlGfwgkuBtCPTn",
+  "username": "ajelof2+8@gmail.com",
+  "password": "1234_modnomsuper0.+-*1234_modnom",
+  "scope": ""
+}
+
+<> 2024-05-20T101541.302.html
+<> 2024-05-20T095830.500.html
+<> 2024-05-19T205245-1.500.html
+### eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIzIiwianRpIjoiNGI2OWQ1ZGNjOTQ5NGJlNWU1YTY4ZTQ4YzEzMzAwZjViNDFlMzBhNWMyYzQ2YzdiZTE3YmRjOTYzZTNkMmU0ZTAxMzMzNjFkOTE3MThlZjQiLCJpYXQiOjE3MTYxNjYwOTMuODM3OTUyLCJuYmYiOjE3MTYxNjYwOTMuODM3OTU0LCJleHAiOjE3MTc0NjIwOTMuNzg1Njk4LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.IAzkT1S0etzhfIq6Q8QkKR9CEXk0k7dIZ4lTPr9nPkALiE5-9LKAhrhNTBHgDczgqB6atD3f3WctunV6samAQHpHXGWseAnOmitbJAst7BcXkPha39hdaCJnIWcAsiR9XVlnLix4aLKJtG26QVJ9Zzot7s1vWF8iPiPixyz5s6jAO38F4fT1mcfuvPtllUy1Su0Ii2Gv8RpdzyW-oBIqDc2C116P2SfSwgmm5m1XekADOcKekNuxqlJAwlSjQ0c-kIL4ITRXc9RewckU3ii9WcaWgmJvfcS3RNbeVc669JkQzeFq_PIwjS3HcmOtGH_8FGA5PHl3JC-pmhg8OUFxKeyNnSroZ2SRs-Lf_xGpuJkpUaC9gB2SDsK0m1qFp_EpOYgKg1mDdV9niOMGafo06dS_1E1QqUCyOODenOZpafcdTWTwr-MoI0b4LAsjxZpZ0uYkG26rWED0HT0dFiIDG3A0JMnE6_zTkps22UFIMpNZPuSUJt_Tt6H1wnTR5RSQCCXMVr6xBM-ShlDc5CVPx8rPXWki6C3yAUkR3ZkDNyBkU0U_Ky637QhoBTBkfY3cTAU-v1T7uSuJ3NoBTdA8-F-jmrr2PQvAbmPm1_-qsn_U9xY8n_n6FPecQ8sFR6nRZ2gKBoEwMrr2rWo2nor1JZEO4fJM8vx_g4l2XEHwCPM
+<> 2024-05-19T194813.200.json
+<> 2024-05-19T184323.404.html
+<> 2024-05-08T203454.200.json
+<> 2024-05-08T203127.400.json
+<> 2024-05-08T203032.400.json
+<> 2024-05-08T202940.400.json
+<> 2024-05-08T202531.500.html
+<> 2024-05-08T202421.500.html
+<> 2024-05-08T202325.500.html
+<> 2024-05-08T201604.500.html
+
+
+###
+###
+
+POST http://{{direction}}:8000/oauth/token
+Content-Type: application/json
+
+{
+    "grant_type": "client_credentials",
+    "client_id": 6,
+    "client_secret": "hK1bWwPaYOvmIWqlhW9F9nttUqmWtV05qGQ0ySJA",
+    "username": "claudia@claudia.com",
+    "password": "135_siseduasd+-*",
+    "scope": ""
+}
+
+
+
+<> 2024-05-19T205245-2.500.html
+
+
+
+###
+###
+GET http://{{direction}}:8000/api
+Content-Type: application/json
+
+<> 2024-05-20T102752.302.html
+
+
+
+###
+###
+GET http://{{direction}}:8000/api/testingget
+Content-Type: application/json
+Accept: */json
+
+<> 2024-05-20T092512.401.json
+<> 2024-05-20T092440.500.html
+<> 2024-05-20T092400.500.html
+<> 2024-05-20T092252.500.html
+<> 2024-05-20T092056.500.html
+<> 2024-05-20T091856.500.html
+<> 2024-05-20T091012.500.html
+<> 2024-05-20T090901.500.html
+<> 2024-05-20T090838.500.html
+<> 2024-05-20T090629.500.html
+
+###
+###
+
+GET http://{{direction}}:8000/api/users
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI2IiwianRpIjoiZGM3OGFiNzA3MjE5OTI5OGU0YTMzMmZiMGIzYTMzYmNlYjBiYTdmMmY2NzIwZTU2OGRkMzMzZTE2N2E4MGRkOGEzNjI0NWMzNmUzZTkxYzkiLCJpYXQiOjE3MTYxNjY0NjkuMDE2ODkxLCJuYmYiOjE3MTYxNjY0NjkuMDE2ODkzLCJleHAiOjE3MTc0NjI0NjguOTg2NTg2LCJzdWIiOiIiLCJzY29wZXMiOltdfQ.XwQ28ISHR4jvvPpGG1llf7w6-MUCLBJkqinTt0eeGTlNovSHVhe8bSnH60g90y1WSCD67Z0-i9pWckAGIPtIyp52ojCw-MggCryGCTOCx1aBIpTPPjlk12-31_1-c6Lr0U-dQ_88H3vhouVL9hba8LzHI7jnZD5nBlBtwftBaPtQVGt8zxmH4PWevwGlF0myko2HyJf12QnlAk2BjPM92wk9NTfFb6WbWrBh6dpDDUrzlKYTG5_r_5IgQrgwS8SSgoMa1BR3LaKice66IH3kjTJfhZaW-e8fhy_TOMWT4s_7RVkJLnlVbrvfWh5W3-p5Fr7WbURwLCWU8cVg-_awOPvD6HYPDtIPqUaL8JyZ7jWqcQ8bwwvaE_15_AHqMX1VPeGXFI0Hpdazydr7LjrKWdtqdhmckrchJMZFZ5cWjrNRAAXqjW4J55TlOEsaKXOBNvSO3C8c-1p8aI93kvN4cLSZJjqubiJWxPutTNZdshit1rL45PrYVdWt8qeHpKO4I9SfAZwI-zRIT1JqRXZlPLn65U3n5CKwBiEb2ZlbE8OvAtju5p-UReTmUbgEmkdzaCIBEoMOFSaKc0NYO_-4rrnuKOlxccSDH9cNDptp9cuMdAXorTZnISelLnTEb0fM-GyBkUO4xrGGFVIKB26AbkGBdYxDlP4BTr3z9f59GwQ
+#Accept :application/json
+
+<> 2024-05-20T153731.302.html
+<> 2024-05-19T205246.500.html
+<> 2024-05-19T204659.500.html
+<> 2024-05-19T204632.500.html
+<> 2024-05-19T203737.500.html
+<> 2024-05-19T203718.500.html
+<> 2024-05-19T203244.500.html
+<> 2024-05-19T203204.500.html
+<> 2024-05-19T202959.500.html
+<> 2024-05-19T202520.500.html
+
+###
+
+GET http://127.0.0.1:8000/api/hola
+Content-Type: application/json
+
+<> 2024-06-07T170055.200.html
